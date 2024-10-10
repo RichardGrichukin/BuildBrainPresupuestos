@@ -48,8 +48,8 @@ tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 termcolor==2.4.0
 tomli==2.0.2
-torch==2.0.0
-torchvision==0.15.0
+torch==2.4.1
+torchvision==0.19.1
 tqdm==4.66.5
 typing_extensions==4.12.2
 Werkzeug==3.0.4
